@@ -1,0 +1,27 @@
+# 🛍️ Ecommerce Sales Dashboard (Power BI Project)
+
+This project analyzes ecommerce sales using Power BI.  
+It covers metrics like:
+- Total Sales, Profit, AOV, Quantity
+- Sales by State, Customer, Category, Sub-category
+- Monthly Profit Trends
+- Payment Mode Insights
+
+📊 Dashboard Preview:
+![Dashboard Screenshot](Capture.PNG)
+
+## 📁 Datasets
+- `Orders.csv` – Contains order-level sales data
+- `Details.csv` – Includes item details and category info
+
+## 🛠️ Tools Used
+- Power BI
+- DAX (for custom calculations)
+- Data Cleaning and Transformation
+
+## 🌸 Background
+Soft pink theme to create a calm and elegant vibe while analyzing 💗
+
+---
+
+
